@@ -27,3 +27,7 @@ Use the new_train.py file for training on your own classes and data. The trained
 #### 5 Various Arguments 
 
 The new_args.py file have list of various arguments used while training and testing Yolo model.
+
+### 6. Reference
+
+For more information, please check https://github.com/wizyoung/YOLOv3_TensorFlow 
